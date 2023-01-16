@@ -1,0 +1,3 @@
+@react-three/fiber: It is a React renderer for threejs.
+
+@react-three/drei: It is a collection of useful helpers and fully functional, ready-made abstractions for @react-three/fiber.
